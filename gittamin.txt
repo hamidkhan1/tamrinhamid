@@ -3,3 +3,16 @@ baraye config avalie git bayad dastorate zir ra vared konid
 ========================= 
 git config --global user.name "Hamid"
 git config --global user.email "Hamidfouladgar@gmail.com"
+
+
+baraye kar kardane ba git az dastorate zir estefade mikonim
+
+=========================================
+
+
+git status   ==> nemayeshe vazeyat
+git add [yourfile]  ==> ezafe kardane file
+git commit -m "message" ==> commit kardan
+git push ==> ersal roye site
+
+
