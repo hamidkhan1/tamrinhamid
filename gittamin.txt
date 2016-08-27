@@ -1,0 +1,5 @@
+baraye config avalie git bayad dastorate zir ra vared konid 
+
+========================= 
+git config --global user.name "Hamid"
+git config --global user.email "Hamidfouladgar@gmail.com"
