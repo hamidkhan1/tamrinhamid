@@ -14,5 +14,7 @@ git status   ==> nemayeshe vazeyat
 git add [yourfile]  ==> ezafe kardane file
 git commit -m "message" ==> commit kardan
 git push ==> ersal roye site
+________________________-
+git log dastor git log taghirat ra neshan midahad
 
 
